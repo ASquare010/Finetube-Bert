@@ -2,9 +2,7 @@
 <h2>Details</h2>
 <p>Utilized Bert to classification task on Law Dataset form Kaggel give a case title to get its outcome</p>
 <h2>Dataset</h2>
-Legal Text Classification Dataset<br>
-
-<a href="https://www.kaggle.com/datasets/amohankumar/legal-text-classification-dataset">Click Link</a><br>
+<p>Legal Text Classification Dataset<a href="https://www.kaggle.com/datasets/amohankumar/legal-text-classification-dataset">Click Link</a></p>
 <h2>classes</h2>
 <ul>
     <li>cited
