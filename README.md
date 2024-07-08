@@ -1,8 +1,8 @@
 <h1> Learn Finetue for supevised Classification</h1>
-
-Utilized Bert to classification task on Law Dataset fom Kaggel
 <h2>Dataset</h2>
-<b>Legal Text Classification Dataset<b>
+<p>Utilized Bert to classification task on Law Dataset form Kaggel give a case title to get its outcome</p>
+<h2>Dataset</h2>
+Legal Text Classification Dataset<br>
 
 <a href="https://www.kaggle.com/datasets/amohankumar/legal-text-classification-dataset">Click Link</a><br>
 <h2>classes</h2>
