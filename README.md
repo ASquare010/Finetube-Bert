@@ -1,4 +1,4 @@
-<h1> Learn Finetue for supevised Classification<h1>
+<h1> Learn Finetue for supevised Classification</h1>
 
 Utilized Bert to classification task on Law Dataset fom Kaggel
 <h2>Dataset</h2>
