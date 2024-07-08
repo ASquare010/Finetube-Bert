@@ -1,5 +1,5 @@
 <h1> Learn Finetue for supevised Classification</h1>
-<h2>Dataset</h2>
+<h2>Details</h2>
 <p>Utilized Bert to classification task on Law Dataset form Kaggel give a case title to get its outcome</p>
 <h2>Dataset</h2>
 Legal Text Classification Dataset<br>
